@@ -1,0 +1,110 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken Salad",
+      "recipe_image": "https://www.crunchycreamysweet.com/wp-content/uploads/2018/06/easy-grilled-chicken-salad-1.jpg",
+      "short_description": "A healthy and delicious grilled chicken salad with a mix of fresh vegetables.",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml olive oil",
+        "100 g lettuce",
+        "50 g cherry tomatoes",
+        "1 avocado",
+        "100 g cucumber",
+        "50 g feta cheese",
+        "20 g black olives"
+      ],
+      "preparing_time": 30,
+      "calories": 350
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://images.services.kitchenstories.io/6glN_4JhpVS9aUiBS7JnGsuDULA=/3840x0/filters:quality(80)/images.kitchenstories.io/wagtailOriginalImages/R2568-photo-final-_0.jpg",
+      "short_description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "400 g spaghetti",
+        "150 g pancetta",
+        "3 eggs",
+        "100 g parmesan cheese",
+        "2 cloves garlic",
+        "50 ml heavy cream",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetarian Stir-Fry",
+      "recipe_image": "https://www.staysnatched.com/wp-content/uploads/2018/08/vegetable-stir-fry-5.jpg",
+      "short_description": "A quick and easy vegetarian stir-fry with a variety of colorful vegetables.",
+      "ingredients": [
+        "200 g tofu",
+        "100 g bell peppers",
+        "100 g broccoli",
+        "100 g carrots",
+        "50 g snow peas",
+        "120 ml soy sauce",
+        "1 tbsp sesame oil",
+        "2 cloves garlic"
+      ],
+      "preparing_time": 20,
+      "calories": 280
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg",
+      "short_description": "Flavorful beef tacos with fresh toppings and a hint of lime.",
+      "ingredients": [
+        "300 g ground beef",
+        "8 taco shells",
+        "50 g lettuce",
+        "50 g cheddar cheese",
+        "100 g tomatoes",
+        "50 g sour cream",
+        "1 lime",
+        "1 tsp chili powder"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Chicken Alfredo Pasta",
+      "recipe_image": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/02/chicken-alfredo-1102w-1024x683.jpg",
+      "short_description": "Creamy Alfredo pasta with tender chicken and a rich, garlic-infused sauce.",
+      "ingredients": [
+        "400 g fettuccine pasta",
+        "300 g chicken breast",
+        "250 ml heavy cream",
+        "100 g parmesan cheese",
+        "2 cloves garlic",
+        "50 g butter",
+        "Salt and pepper to taste",
+        "Parsley for garnish"
+      ],
+      "preparing_time": 30,
+      "calories": 600
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Mushroom Risotto",
+      "recipe_image": "https://recipes.net/wp-content/uploads/2023/05/baby-bella-mushroom-risotto-recipe_8e0e2192393e3ba28198edb544c053f8.jpeg",
+      "short_description": "A creamy and comforting mushroom risotto with a hint of parmesan.",
+      "ingredients": [
+        "400 g Arborio rice",
+        "200 g mushrooms",
+        "1 onion",
+        "2 cloves garlic",
+        "120 ml white wine",
+        "1 liter vegetable broth",
+        "100 g parmesan cheese",
+        "50 g butter"
+      ],
+      "preparing_time": 40,
+      "calories": 520
+    }
+  ]
+  

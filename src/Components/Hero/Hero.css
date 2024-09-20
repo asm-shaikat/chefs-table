@@ -1,0 +1,20 @@
+.hero-container {
+    background-image: url('/assets/hero-image.png');
+    background-size: cover;
+    height: 80vh;
+    border-radius: 50px;
+}
+
+/* .hero-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.hero-subtitle {
+    font-size: 1rem;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 1.5rem;
+} */
